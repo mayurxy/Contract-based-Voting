@@ -60,7 +60,7 @@ contract Voting {
 }
 
   function voteForCandidate(voters candidate, address[] choices) {
-    require(validCandidate(candidate));
+    require(checkValidity(candidate));
     
 	if(candidate.voted)
 		throw;
