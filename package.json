@@ -1,0 +1,19 @@
+{
+  "name": "contractvoting",
+  "version": "1.0.0",
+  "description": "proof of hack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayurxy/Contract-based-Voting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayurxy/Contract-based-Voting/issues"
+  },
+  "homepage": "https://github.com/mayurxy/Contract-based-Voting#readme"
+}
